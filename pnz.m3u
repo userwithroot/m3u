@@ -115,6 +115,8 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ЕГЭ
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
@@ -133,5 +135,3 @@ http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
 http://dmi3y-tv.ru/hls/CH_KALEYDOSKOPTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",E!
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",RTД
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
