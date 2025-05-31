@@ -121,8 +121,6 @@ http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTG
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",НЕИЗВЕСТНАЯ РОССИЯ
-http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СОЮЗ HD
