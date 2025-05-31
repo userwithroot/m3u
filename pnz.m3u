@@ -53,8 +53,6 @@ http://178.212.71.253:8000/play/119/index.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МИР 24 HD
-http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RU.TV HD
@@ -65,6 +63,8 @@ http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",TRACE Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",МИР 24 HD
+http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
