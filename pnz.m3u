@@ -107,11 +107,11 @@ http://178.124.152.238:8088/nostalgia
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTД HD
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ЕГЭ
+#EXTINF:-1 group-title="ПЕНЗА",ЕГЭ ТВ
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Russian Travel Guide
+#EXTINF:-1 group-title="ПЕНЗА",Russian Travel Guide HD
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
@@ -119,7 +119,7 @@ http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНВ 
+#EXTINF:-1 group-title="ПЕНЗА",ТНВ Планета
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",E HD
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
