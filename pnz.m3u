@@ -1,51 +1,51 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="ПЕНЗА",Первый канал (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Первый канал 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Россия 1 (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Матч! (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Матч! 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",НТВ (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",НТВ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Пятый канал (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Пятый канал 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_5TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Россия 24 (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Россия 24 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Карусель (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Карусель 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ОТР (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",ОТР 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_OTR.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТВЦ (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",ТВЦ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TVC.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",РЕН ТВ (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",РЕН ТВ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СПАС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",СТС (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",СТС 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Домашний (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Домашний 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТВ3 (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",ТВ3 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Звезда (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Звезда 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Пятница! (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Пятница! 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНТ (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",ТНТ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNT.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Че! (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Че! 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_CHE.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНВ (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",ТНВ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Ю (Пенза)
+#EXTINF:-1 group-title="ПЕНЗА",Ю 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
