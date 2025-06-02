@@ -103,6 +103,8 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ностальгия
 http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="ПЕНЗА",Доктор HD
+http://7fcce2bf.edmonst.net/iptv/7BMS6GZYHAF83EXR97LYS946/20013/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РЖД ТВ
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTД HD
@@ -135,3 +137,5 @@ http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
 http://195.26.83.96:7007/play/a00m/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Europa Plus TV
 http://7fcce2bf.edmonst.net/iptv/7BMS6GZYHAF83EXR97LYS946/115/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Red Lips
+http://7fcce2bf.edmonst.net/iptv/7BMS6GZYHAF83EXR97LYS946/6271/index.m3u8
