@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="ПЕНЗА",Первый канал 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Россия 1 
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч! 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",НТВ 
