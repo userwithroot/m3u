@@ -95,6 +95,8 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МУЛЬТ HD
 http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Cartoon Classics
+http://178.212.236.3:8802/play/425
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота!
@@ -103,8 +105,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ностальгия
 http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 group-title="ПЕНЗА",Доктор HD
-http://7fcce2bf.edmonst.net/iptv/7BMS6GZYHAF83EXR97LYS946/20013/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РЖД ТВ
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTД HD
@@ -129,9 +129,5 @@ https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ MUSIC HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Bridge
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
-#EXTINF:-1 group-title="ПЕНЗА",Europa Plus TV
-http://7fcce2bf.edmonst.net/iptv/7BMS6GZYHAF83EXR97LYS946/115/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",TRACE Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
