@@ -109,7 +109,7 @@ http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ЕГЭ ТВ
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Наука
+#EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTG HD
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
