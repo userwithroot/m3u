@@ -27,13 +27,13 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТВ3 
+#EXTINF:-1 group-title="ПЕНЗА",ТВ3
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Звезда 
+#EXTINF:-1 group-title="ПЕНЗА",Звезда
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Пятница! 
+#EXTINF:-1 group-title="ПЕНЗА",Пятница
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNT.m3u8
@@ -103,7 +103,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ностальгия
 http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 group-title="ПЕНЗА",РЖД
+#EXTINF:-1 group-title="ПЕНЗА",РЖД ТВ
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTД HD
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
