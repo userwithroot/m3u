@@ -19,9 +19,9 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_OTR.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВЦ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TVC.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",РЕН ТВ 
+#EXTINF:-1 group-title="ПЕНЗА",Рен ТВ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",СПАС
+#EXTINF:-1 group-title="ПЕНЗА",Спас
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
@@ -29,7 +29,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВ3
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МИР HD
+#EXTINF:-1 group-title="ПЕНЗА",Мир HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Звезда
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
@@ -37,7 +37,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNT.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МУЗ ТВ
+#EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Экспресс HD 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
@@ -55,7 +55,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ю 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МИР 24 HD
+#EXTINF:-1 group-title="ПЕНЗА",Мир 24 HD
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
@@ -63,7 +63,7 @@ http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",360 HD
 http://dmi3y-tv.ru/hls/smotrim/CH_360TVHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",360 НОВОСТИ HD
+#EXTINF:-1 group-title="ПЕНЗА",360 Новости HD
 http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
@@ -77,7 +77,7 @@ http://178.212.71.253:8000/play/124/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",КИНО ТВ
+#EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Победа
 http://178.217.72.66:8080/pobeda/index.m3u8
@@ -91,13 +91,13 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",CINEMA
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",КИНЕКО
+#EXTINF:-1 group-title="ПЕНЗА",Кинеко
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МУЛЬТ HD
+#EXTINF:-1 group-title="ПЕНЗА",Мульт HD
 http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Суббота!
+#EXTINF:-1 group-title="ПЕНЗА",Суббота
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Солнце
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
@@ -115,17 +115,17 @@ http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",СОЮЗ HD
+#EXTINF:-1 group-title="ПЕНЗА",Союз HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНВ Планета
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",E HD
+#EXTINF:-1 group-title="ПЕНЗА",E TV HD
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RU.TV HD
 http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНТ MUSIC HD
+#EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",TRACE Urban HD
+#EXTINF:-1 group-title="ПЕНЗА",Trace Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
