@@ -9,7 +9,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Пятый канал 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_5TV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Культура
+#EXTINF:-1 group-title="ПЕНЗА",Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 24 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
@@ -51,7 +51,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",2x2
+#EXTINF:-1 group-title="ПЕНЗА",2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
@@ -73,9 +73,9 @@ http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7
 http://dmi3y-tv.ru/hls/smotrim/CH_360TVHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",360 НОВОСТИ HD
 http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Известия
+#EXTINF:-1 group-title="ПЕНЗА",Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Арсенал
+#EXTINF:-1 group-title="ПЕНЗА",Арсенал HD
 http://178.217.72.66:8080/arsenalhd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
@@ -113,7 +113,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="ПЕНЗА",РЖД ТВ
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",RTД
+#EXTINF:-1 group-title="ПЕНЗА",RTД HD
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ЕГЭ
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
