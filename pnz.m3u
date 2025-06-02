@@ -125,8 +125,6 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",E TV HD
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",MTV Europe HD
-http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RU.TV HD
 http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ MUSIC HD
