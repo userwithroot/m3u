@@ -103,8 +103,8 @@ http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МАМА
-http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Ani
+http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота!
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Солнце
