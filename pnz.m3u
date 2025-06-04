@@ -63,9 +63,9 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
-#EXTINF:-1,group-title="РАДИО",Радио Дача (Пенза)
+#EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
 http://85.140.44.162:8007/stream/2/
-#EXTINF:-1,group-title="РАДИО",Радио Рекорд (Пенза)
+#EXTINF:-1 group-title="РАДИО",Радио Рекорд (Пенза)
 http://85.140.44.162:8007/
 #EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
