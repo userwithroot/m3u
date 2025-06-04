@@ -152,3 +152,7 @@ http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Trace Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
+#EXTINF:-1,group-title="РАДИО",Радио Рекорд (Пенза)
+http://85.140.44.162:8007/
+#EXTINF:-1,group-title="РАДИО",Радио Дача (Пенза)
+http://85.140.44.162:8007/stream/2/
