@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ПЕНЗА",Первый канал HD
+#EXTINF:-1 group-title="ПЕНЗА",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
