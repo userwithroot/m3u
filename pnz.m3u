@@ -125,7 +125,7 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="ПЕНЗА",РЖД ТВ
-http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTД HD
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ЕГЭ ТВ
