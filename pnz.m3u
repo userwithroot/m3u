@@ -4,54 +4,74 @@
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Матч! 
+#EXTINF:-1 group-title="ПЕНЗА",Матч!
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",НТВ 
+#EXTINF:-1 group-title="ПЕНЗА",НТВ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Пятый канал 
+#EXTINF:-1 group-title="ПЕНЗА",Пятый канал
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_5TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Культура HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Россия 24 
+#EXTINF:-1 group-title="ПЕНЗА",Россия 24
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Карусель 
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ОТР 
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_OTR.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВ Центр
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TVC.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Рен ТВ 
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Спас
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС 
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВ3
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Звезда
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Пятница
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНТ 
+#EXTINF:-1 group-title="ПЕНЗА",ТНТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD 
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD 
+#EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Сарафан
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="ПЕНЗА",Че! 
+#EXTINF:-1 group-title="ПЕНЗА",Че!
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_CHE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
+#EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
