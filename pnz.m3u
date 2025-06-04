@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПЕНЗА",Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
+#EXTVLCOPT:http-user-agent=SmartTV
+http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч!
@@ -62,6 +63,10 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
+#EXTINF:-1,group-title="РАДИО",Радио Дача (Пенза)
+http://85.140.44.162:8007/stream/2/
+#EXTINF:-1,group-title="РАДИО",Радио Рекорд (Пенза)
+http://85.140.44.162:8007/
 #EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Сарафан
@@ -152,7 +157,3 @@ http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Trace Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
-#EXTINF:-1,group-title="РАДИО",Радио Рекорд (Пенза)
-http://85.140.44.162:8007/
-#EXTINF:-1,group-title="РАДИО",Радио Дача (Пенза)
-http://85.140.44.162:8007/stream/2/
