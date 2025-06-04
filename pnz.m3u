@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПЕНЗА",Первый канал HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч!
