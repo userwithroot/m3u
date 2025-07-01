@@ -35,8 +35,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС 
-#EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_STS.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
@@ -53,7 +52,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ HD
 http://cdn.admuspeh.my/8311/video.m3u8?token=ZUpUcFtZrPLScR9j
-#EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
+#EXTINF:-1 group-title="ПЕНЗА",Муз ТВ HD
 http://cdn.admuspeh.my/8190/video.m3u8?token=ZUpUcFtZrPLScR9j
 #EXTINF:-1 group-title="ПЕНЗА",Экспресс HD
 #EXTVLCOPT:http-user-agent=SmartTV
