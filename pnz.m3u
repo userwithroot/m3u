@@ -73,8 +73,8 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_CHE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",2x2 HD
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",2x2
+http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ю 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир 24 HD
