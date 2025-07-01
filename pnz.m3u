@@ -40,7 +40,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТВ3
+#EXTINF:-1 group-title="ПЕНЗА",ТВ-3
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир HD
@@ -113,8 +113,8 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кинеко
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Мульт HD
-http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Мульт
+http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Солнце
