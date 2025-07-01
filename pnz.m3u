@@ -55,8 +55,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TNT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+http://cdn.admuspeh.my/8190/video.m3u8?token=ZUpUcFtZrPLScR9j
 #EXTINF:-1 group-title="ПЕНЗА",Экспресс HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
