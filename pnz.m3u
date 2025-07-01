@@ -80,16 +80,14 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Известия HD
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Известия
+http://dmi3y-tv.ru/hls/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",360 HD
 http://dmi3y-tv.ru/hls/smotrim/CH_360TVHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",360 Новости HD
 http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Арсенал HD
-http://178.217.72.66:8080/arsenalhd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Победа
 http://178.217.72.66:8080/pobeda/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Русский иллюзион
@@ -136,6 +134,8 @@ http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Неизвестная Россия
+http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Союз HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
@@ -148,7 +148,7 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",RU.TV HD
-http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",RU TV
+http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
