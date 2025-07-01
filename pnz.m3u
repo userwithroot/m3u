@@ -113,6 +113,8 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кинеко
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Индия
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мульт
 http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота
@@ -131,8 +133,6 @@ http://31.148.48.15/Kuhnya_TV/index.m3u8
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",TERRA HD
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RTG HD
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
@@ -143,8 +143,12 @@ http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНВ Планета
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Bridge
+#EXTINF:-1 group-title="ПЕНЗА",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RU.TV HD
 http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
