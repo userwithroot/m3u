@@ -34,8 +34,8 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Спас
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",СТС Love
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
