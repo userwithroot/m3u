@@ -113,9 +113,9 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Nickelodeon Global
+#EXTINF:-1 group-title="ПЕНЗА",Nickelodeon
 http://s7.merlive.am/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Суббота
+#EXTINF:-1 group-title="ПЕНЗА",Суббота!
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
@@ -123,8 +123,8 @@ http://77.235.1.19:8000/play/a052/index.m3u8
 http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Ностальгия
-http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="ПЕНЗА",Бокс ТВ
+http://s7.merlive.am/BoxTV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
