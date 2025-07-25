@@ -93,14 +93,14 @@ http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
 http://178.217.72.66:8080/pobeda/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Русский иллюзион
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",START Air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Родное кино
+http://77.235.1.19:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",НСТ
-http://178.217.72.66:8080/NSTV/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",НТВ Хит
 #EXTVLCOPT:http-user-agent=SmartTV
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
