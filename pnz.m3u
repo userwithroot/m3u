@@ -35,6 +35,7 @@ http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Домашний 
 #EXTVLCOPT:http-user-agent=SmartTV
