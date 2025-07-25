@@ -125,7 +125,7 @@ http://178.217.72.66:8080/multilandiya/index.m3u8
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Бокс ТВ
 http://s7.merlive.am/BoxTV/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Кухня
+#EXTINF:-1 group-title="ПЕНЗА",Кухня ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
@@ -135,14 +135,14 @@ http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Неизвестная Россия
-http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
+http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="ПЕНЗА",Союз HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНВ Планета
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TNVPLANETA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Hits
