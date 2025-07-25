@@ -77,12 +77,12 @@ http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ю 
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Живи
+http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир 24 HD
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Известия
-http://dmi3y-tv.ru/hls/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",360 HD
@@ -93,8 +93,8 @@ http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
 http://178.217.72.66:8080/pobeda/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Русский иллюзион
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Дом кино
-https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",START Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
@@ -113,12 +113,12 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Мульт
-http://dmi3y-tv.ru/hls/CH_MULT.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Nickelodeon Global
+http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Солнце
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Cartoon Classics
+http://77.235.1.19:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
