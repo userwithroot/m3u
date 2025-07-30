@@ -15,14 +15,14 @@ https://radiorecord.hostingradio.ru/rus96.aacp
 #EXTINF:-1,DFM
 http://23.105.238.4/dfm96.aacp
 
-#EXTINF:-1,Like FM +0
-http://srv01.gpmradio.ru:8000/stream/reg/aac/64/region_like_tz_0
+#EXTINF:-1,Like FM
+http://srv11.gpmradio.ru/stream/air/mp3/256/219
 
 #EXTINF:-1,Europa Plus
 http://ep256.hostingradio.ru:8052/europaplus256.mp3
 
 #EXTINF:-1,Energy
-https://pub0302.101.ru:8443/stream/air/aac/64/99
+http://srv11.gpmradio.ru/stream/air/mp3/256/99
 
 #EXTINF:-1,Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
@@ -31,7 +31,7 @@ http://hitfm.hostingradio.ru/hitfm96.aacp
 http://net37.ru:8000/love_radio_net37ru.aac
 
 #EXTINF:-1,Relax FM
-http://srv01.gpmradio.ru/stream/air/mp3/256/200
+http://srv11.gpmradio.ru/stream/air/mp3/256/200
 
 #EXTINF:-1,Эльдорадио
 http://radio.kruglikov.info/eldoradio_128
@@ -43,7 +43,7 @@ http://retroserver.streamr.ru:8040/radio7128.mp3
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
 
 #EXTINF:-1,Radio Romantika
-http://srv01.gpmradio.ru/stream/air/mp3/256/101
+http://srv11.gpmradio.ru/stream/air/mp3/256/101
 
 #EXTINF:-1,Radio Jazz
 https://nashe1.hostingradio.ru/jazz-128.mp3
@@ -52,7 +52,7 @@ https://nashe1.hostingradio.ru/jazz-128.mp3
 https://choco.hostingradio.ru:10010/fm
 
 #EXTINF:-1,Авторадио
-https://pub0302.101.ru:8443/stream/air/aac/64/100
+http://srv11.gpmradio.ru/stream/air/mp3/256/100
 
 #EXTINF:-1,Русское радио
 http://23.105.238.4/rusradio96.aacp
@@ -97,10 +97,10 @@ https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
 https://stream.studio21.ru/studio2196.aacp
 
 #EXTINF:-1,Comedy Radio
-https://pub0101.101.ru:443/stream/air/aac/64/202
+http://srv11.gpmradio.ru/stream/air/mp3/256/202
 
 #EXTINF:-1,Юмор FM
-https://srv21.gpmradio.ru:8443/stream/air/aac/64/102
+http://srv11.gpmradio.ru/stream/air/mp3/256/102
 
 #EXTINF:-1,Радио Ультра
 http://nashe2.hostingradio.ru:80/ultra-128.mp3
