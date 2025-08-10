@@ -139,8 +139,8 @@ http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПЕНЗА",Тонус ТВ
-http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Телекафе
+http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Союз HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
@@ -155,3 +155,4 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
+
