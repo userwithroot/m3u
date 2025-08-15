@@ -87,15 +87,15 @@ http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Победа
 http://178.217.72.66:8080/pobeda/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Русский иллюзион
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Телекафе
+http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Родное кино
 http://77.235.1.19:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Киносемья
 http://45.159.74.22/VipComedy/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кинохит
 http://45.159.74.22/Kinokhit/mono.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Дом Кино Премиум
+#EXTINF:-1 group-title="ПЕНЗА",Дом Кино Премиум HD
 http://45.159.74.22/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
@@ -139,8 +139,6 @@ http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПЕНЗА",Телекафе
-http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Союз HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
@@ -155,4 +153,3 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
-
