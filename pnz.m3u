@@ -1,85 +1,85 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПЕНЗА",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_1TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч!
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",НТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NTV.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_NTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Пятый канал
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_5TV.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_5TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Культура HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 24
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Карусель 
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Карусель 
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ОТР 
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ОТР 
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_OTR.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_OTR.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВ Центр
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TVC.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Рен ТВ 
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_TVC.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Рен ТВ 
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_RENTV.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Спас
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
+http://dmi3y-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_STS.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Домашний 
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_STS.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Домашний 
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_DOMASHNIY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТВ-3
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_TV3.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_TV3.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир HD
-http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+http://dmi3y-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Звезда
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Пятница
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+http://dmi3y-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+http://dmi3y-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Экспресс HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
 http://85.140.44.162:8007/stream/2/
 #EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Че!
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_CHE.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_CHE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",2x2
-http://dmi3y-tv.ru/hls/zabava/CH_2X2.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Ю 
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_U.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/CH_2X2.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Ю 
+http://dmi3y-tv.ddns.net/hls/zabava/region/PENZA/CH_U.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мир 24 HD
-http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
-http://dmi3y-tv.ru/hls/CH_RBK.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Победа
@@ -95,9 +95,9 @@ http://45.159.74.22/Kinokhit/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Дом Кино Премиум HD
 http://45.159.74.22/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
-http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
-http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_KINOTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",НТВ Хит
@@ -107,25 +107,25 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Cinema
-http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",viju TV1000
 http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Суббота!
-http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+http://dmi3y-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
-http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кухня ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
-http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Здоровое ТВ
@@ -133,9 +133,9 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="ПЕНЗА",Союз HD
-http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",МузСоюз
-http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Hits
@@ -143,6 +143,6 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",RU TV
-http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
-http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
+http://dmi3y-tv.ddns.net/hls/CH_TNT_MUSICHD.m3u8
