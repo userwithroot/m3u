@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="ПЕНЗА",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_1TV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч!
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -13,7 +13,7 @@ http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_NTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Пятый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_5TV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Культура HD
+#EXTINF:-1 group-title="ПЕНЗА",Россия К
 #EXTVLCOPT:http-user-agent=SmartTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 24
@@ -54,10 +54,10 @@ http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_FRIDAY.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
 http://a0925677.xsph.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Экспресс HD
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс
 #EXTVLCOPT:http-user-agent=SmartTV
 http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Наш Дом HD
+#EXTINF:-1 group-title="ПЕНЗА",Наш Дом
 #EXTVLCOPT:http-user-agent=SmartTV
 http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
@@ -74,8 +74,6 @@ http://a0925677.xsph.ru/hls/zabava/CH_TNT4.m3u8
 http://a0925677.xsph.ru/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ю 
 http://a0925677.xsph.ru/hls/zabava/region/PENZA/CH_U.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Мир 24 HD
-http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://a0925677.xsph.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
@@ -96,11 +94,11 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Суббота!
-http://a0925677.xsph.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Союз
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Радость моя
 http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Кухня ТВ
+#EXTINF:-1 group-title="ПЕНЗА",Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
@@ -112,17 +110,11 @@ http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПЕНЗА",Союз HD
-http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",МузСоюз
-http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",RU TV
-http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
 http://a0925677.xsph.ru/hls/CH_TNT_MUSICHD.m3u8
