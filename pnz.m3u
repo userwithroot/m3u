@@ -116,5 +116,3 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",ТНТ Music HD
-http://a0925677.xsph.ru/hls/CH_TNT_MUSICHD.m3u8
