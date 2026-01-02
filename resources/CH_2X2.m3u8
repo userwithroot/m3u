@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:2
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+http://a787201485-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
