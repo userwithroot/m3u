@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_
 #EXTINF:-1 group-title="ПЕНЗА",Экспресс
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Наш Дом
+#EXTINF:-1 group-title="ПЕНЗА",11 Канал Наш Дом
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
@@ -116,3 +116,4 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
