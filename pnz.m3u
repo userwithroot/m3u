@@ -54,26 +54,26 @@ https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TNT.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Экспресс
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс (Пенза)
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",11 Канал Наш Дом
+#EXTINF:-1 group-title="ПЕНЗА",11 Канал (Пенза)
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
 http://85.140.44.162:8007/stream/2/
-#EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Че!
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_CHE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartTV
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TNT4.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",2x2
 http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Ю 
-http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_U.m3u8
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_U.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",РБК
 http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Москва 24
@@ -94,10 +94,6 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Союз
-http://dmitry-tv.ddns.net/hls/CH_SOYUZHD.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Радость моя
-http://dmitry-tv.ddns.net/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
@@ -116,5 +112,3 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-
-
