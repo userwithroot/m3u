@@ -101,6 +101,15 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_CINEMA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Солнце
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",СТС Love
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Суббота
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_SUBBOTA.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
@@ -120,3 +129,4 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
