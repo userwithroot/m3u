@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=5242880,PROGRAM-ID=1
+http://a787200748-rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/playlist.m3u8?utcstart=1654754400&version=2
+
