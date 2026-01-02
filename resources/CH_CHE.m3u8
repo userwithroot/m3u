@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:2
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2169207,CODECS="avc1.64001e,mp4a.40.29",RESOLUTION=800x450,FRAME-RATE=25.000
+http://a3285275080-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
