@@ -3,6 +3,7 @@
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_1TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 1
+#EXTVLCOPT:http-user-agent=SmartTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Матч!
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -74,11 +75,12 @@ https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_
 #EXTINF:-1 group-title="ПЕНЗА",Ю
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_U.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",РБК
+#EXTINF:-1 group-title="ПЕНЗА",Патриот
 #EXTVLCOPT:http-user-agent=SmartTV
-https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_RBK.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Москва 24
-http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Дом Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Красная линия
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_REDLINE.m3u8
@@ -119,16 +121,25 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПЕНЗА",Живи
-http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Европа Плюс ТВ
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",НТВ Стиль
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",РБК
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_RBK.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Москва 24
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ Music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",RU TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Hits
