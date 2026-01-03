@@ -121,8 +121,6 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Моя Планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",TERRA
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
@@ -146,3 +144,4 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
