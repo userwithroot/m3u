@@ -67,8 +67,8 @@ http://85.140.44.162:8007/stream/2/
 #EXTINF:-1 group-title="ПЕНЗА",Че!
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_CHE.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TNT4.m3u8
@@ -166,4 +166,5 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
 
