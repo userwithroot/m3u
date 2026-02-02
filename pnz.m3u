@@ -87,8 +87,6 @@ https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_
 #EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_KINOTV.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Ретро
-http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Кинопоказ
@@ -107,8 +105,6 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Солнце
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_DISNEY.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Уникум
-http://31.148.48.15/Detskiy/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",СТС Love
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_STSLOVE.m3u8
@@ -127,14 +123,8 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Моя Планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПЕНЗА",Время
-http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",НТВ Стиль
 #EXTVLCOPT:http-user-agent=SmartTV
 https://cdn.ntv.ru/th_style/playlist.m3u8
@@ -162,9 +152,3 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",O!2
-http://31.148.48.15/O2_HD/index.m3u8
-#EXTINF:-1 group-title="ПЕНЗА",Europa Plus TV
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-
-
