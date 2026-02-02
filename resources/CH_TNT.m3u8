@@ -2,4 +2,5 @@
 #EXT-X-VERSION:2
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6507621,CODECS="avc1.64001e",RESOLUTION=800x450,FRAME-RATE=25.000
-http://a1311338245-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
