@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,Galaxy Progressive Radio
+http://31.129.103.5:8000/glxyprog
+
 #EXTINF:-1,Radio Record
 http://radiorecord.hostingradio.ru/rr_main96.aacp
 
-#EXTINF:-1,Radio Record (Пенза)
+#EXTINF:-1,Radio Record - Пенза
 http://85.140.44.162:8007/
-
-#EXTINF:-1,Radio Record (Нижний Ломов)
-http://85.234.56.232:8003/
 
 #EXTINF:-1,Radio Record - Russian Mix
 https://radiorecord.hostingradio.ru/rus96.aacp
@@ -66,9 +66,6 @@ http://net37.ru:8000/radio_dacha_net37ru.aac
 #EXTINF:-1,Радио Дача (Пенза)
 http://85.140.44.162:8007/stream/2/
 
-#EXTINF:-1,Радио Дача (Нижний Ломов)
-http://85.234.56.232:8003/stream/3/
-
 #EXTINF:-1,Ретро FM
 http://hls-01-retro.emgsound.ru/12/playlist.m3u8
 
@@ -97,7 +94,7 @@ https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
 https://stream.studio21.ru/studio2196.aacp
 
 #EXTINF:-1,Comedy Radio
-http://srv11.gpmradio.ru/stream/air/mp3/256/202
+https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8
 
 #EXTINF:-1,Юмор FM
 http://srv11.gpmradio.ru/stream/air/mp3/256/102
@@ -119,7 +116,3 @@ http://radio-holding.ru:9000/marusya_app
 
 #EXTINF:-1,Пи FM
 https://cdn.pifm.ru/mp3
-
-#EXTINF:-1,Galaxy Progressive Radio
-http://31.129.103.5:8000/glxyprog
-
